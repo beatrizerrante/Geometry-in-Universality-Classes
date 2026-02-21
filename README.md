@@ -62,7 +62,7 @@ metallic-means-universality/
 │ └── geometric-dictionary.md
 ├── requirements.txt # Python dependencies
 ├── main.py # Main entry point
-├── LICENSE # MIT License
+├── LICENSE # License
 └── README.md # This file
 
 
